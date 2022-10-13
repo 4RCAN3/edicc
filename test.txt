@@ -1,0 +1,229 @@
+L529663 +++$+++ u2864 +++$+++ m189 +++$+++ BEN +++$+++ I'm always here, Pete.
+L529662 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I know.
+L529661 +++$+++ u2864 +++$+++ m189 +++$+++ BEN +++$+++ When you won that scholarship, I was proud of you.
+L529659 +++$+++ u2864 +++$+++ m189 +++$+++ BEN +++$+++ -- no, I mean... we... your Aunt May not wantin' kids and all... I mean we both...
+L529658 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Oh, come on, Ben ,that's not--
+L529657 +++$+++ u2864 +++$+++ m189 +++$+++ BEN +++$+++ Yeah, ya like to do things on your own  I been thinkin' lately.  Maybe I wasn't the, ya know, greatest dad--
+L529656 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ No, no.
+L529655 +++$+++ u2864 +++$+++ m189 +++$+++ BEN +++$+++ Cause if you get in a bind--
+L529654 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Oh, sure.
+L529653 +++$+++ u2864 +++$+++ m189 +++$+++ BEN +++$+++ Ya set for, uh, ya know-- money?
+L529652 +++$+++ u2864 +++$+++ m189 +++$+++ BEN +++$+++ Yeah, Babe Ruth you wasn't.
+L529651 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Remember Little League?
+L529650 +++$+++ u2864 +++$+++ m189 +++$+++ BEN +++$+++ S'funny.  When your mom and dad, uh, passed away, I had this idea. I wanted you to be the best baseball player in the world.
+L529649 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ No�not really.
+L529648 +++$+++ u2864 +++$+++ m189 +++$+++ BEN +++$+++ Ya still follow the Mets, Pete?
+L529647 +++$+++ u2864 +++$+++ m189 +++$+++ BEN +++$+++ Eh.  If I ever get out from under. Maybe take May to France or somethin'.
+L529646 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I know.  Still thinking about retiring?
+L529645 +++$+++ u2864 +++$+++ m189 +++$+++ BEN +++$+++ Wasn't worth gettin' upset over a Milky Way.  Anyways, I was never much for, ya know, discipline.
+L529644 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ You stop him?
+L529643 +++$+++ u2864 +++$+++ m189 +++$+++ BEN +++$+++ Ah, ya know.  Neighborhood's not what it used to be.  Kid no more'n five swiped a candy bar the other day.
+L529642 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Same old stuff.  How's the pharmacy?
+L529641 +++$+++ u2864 +++$+++ m189 +++$+++ BEN +++$+++ So, uh... how's college goin'?
+L529640 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ No. No, that's okay.
+L529639 +++$+++ u2864 +++$+++ m189 +++$+++ BEN +++$+++ What, want a glass?
+L529638 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Uh, Uncle Ben, I--
+L529637 +++$+++ u2864 +++$+++ m189 +++$+++ BEN +++$+++ Here you go, Pete.
+L530253 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ Or was it all a dream?
+L530252 +++$+++ u2865 +++$+++ m189 +++$+++ FLASH +++$+++ See?
+L530251 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ I was there.
+L530021 +++$+++ u2865 +++$+++ m189 +++$+++ FLASH +++$+++ -- but they got it all wrong.  Any fool can figure it out.  Spider-Man nailed this guy!
+L530020 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ Flash, drop it--
+L530019 +++$+++ u2865 +++$+++ m189 +++$+++ FLASH +++$+++ No, no, listen. They're tryin' to say he was in cahoots with this killer--
+L530018 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ Yeah, take pity on the feeble minded.
+L530194 +++$+++ u2865 +++$+++ m189 +++$+++ FLASH +++$+++ Come on, laughter's the best medicine!
+L530193 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Flash, get lost.
+L530029 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Hm.  What a lump.
+L530028 +++$+++ u2865 +++$+++ m189 +++$+++ FLASH +++$+++ Mistake?  Hey, guy, get back here!
+L530015 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ I saw him too.  He was silly and obnoxious.
+L530014 +++$+++ u2865 +++$+++ m189 +++$+++ FLASH +++$+++ Hey, guys.  Check it out-- I saw this dud on the tube last night. He is incredibly cool.
+L529590 +++$+++ u2865 +++$+++ m189 +++$+++ FLASH +++$+++ I'm parked illegally!
+L529589 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ I was sort of hoping to get out of--
+L529588 +++$+++ u2865 +++$+++ m189 +++$+++ FLASH +++$+++ Lizzy!
+L530256 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ Oh. Well, hang in there, amigo.
+L530255 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Well, I've missed a lot of classes myself...
+L530254 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ Oh, I need your notes from the classes I missed.
+L530188 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ I got you a present.
+L530187 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Listen, I do appreciate your concern, but--
+L530186 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ You get mugged or something?
+L530009 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ You're not half the idiot I am, Harry.
+L530008 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ And you let me go on about Rosomoff working me too hard?  I feel like a complete idiot.
+L530007 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Mm-hmm.
+L530006 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ Jesus Christ.
+L529813 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ I am not pitiful!  I am the bridge to the �bermensch!
+L529812 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Don't be pitiful.
+L529811 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ You're so responsible it's disgusting. But you're my only friend... do you hate me?
+L529810 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ Why home? The real world beckons, man!  The possibilities are endless.  Want to go up to the World Trade Center and laugh at New Jersey?
+L529809 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Great idea.  Let me get some shoes. I'll take you home.
+L529808 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ Screw scholarships!   Universities are death!  They make slaves of us all with their fetid ideas!  Burn 'em down, I say!
+L529807 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I know.  I've got one too.
+L529806 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ "Scholarship students must maintain dignity at all times."
+L529805 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Let me guess.  The hunting dogs. You lost your scholarship.
+L529804 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ "Harry Osborne diminishes the stature of the University."
+L529803 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Harry�
+L529802 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ Ooooh.  Your feet are on fire.
+L529561 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Harry!
+L529560 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ A little bunny I saved from dissection.
+L529559 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ What's in there?
+L529558 +++$+++ u2866 +++$+++ m189 +++$+++ HARRY +++$+++ They'll never take me alive.
+L529557 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ You maniac.  You'll blow your scholarship.
+L529755 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Right.
+L529754 +++$+++ u2867 +++$+++ m189 +++$+++ HOGAN +++$+++ You can be great, kid, just stick with it. But let me give you one little piece of advice... be a good guy.
+L529753 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Oh, look, Mr. Hogan, I'm really sorry about what happened in there. Really--
+L529752 +++$+++ u2867 +++$+++ m189 +++$+++ HOGAN +++$+++ How are you doing, kid?
+L529748 +++$+++ u2867 +++$+++ m189 +++$+++ HOGAN +++$+++ Get away from me, freak!
+L529747 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Are you okay?
+L529746 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ That's not even close.
+L529745 +++$+++ u2867 +++$+++ m189 +++$+++ HOGAN +++$+++ Lemme down, bugface!
+L529744 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Now tell me you love me.
+L529836 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ No!  Now get outta my face, kid.
+L529835 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Can I get a word in edgewise?
+L529834 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ No! Washington Square, manhole covers turn into flying saucers and radios explode like A-bombs.  Did you get pictures?
+L529833 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Mr. Jameson--
+L529832 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ Bunch of kids at your goddamned college say their appliances attacked them.  Did you get pictures?
+L529831 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ You print pictures of Bigfoot!
+L529830 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ I don't give a gerbil's ass how you got 'em!  I can't print this surreal garbage!
+L529829 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Double-exposures? But they're not-- I was in--
+L529828 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ I got a question, college boy.  What the hell am I supposed to do with these!?  I ask for disaster, pathos, what do I get?  Salvador Dali!  When I want artsy-fartsy double-exposures, I'll ask for--
+L529827 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Mr. Jameson--
+L529826 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ I like enthusiasm.  That's why I use a lot of smart-ass kids.  Not just 'cause they work cheap.
+L529825 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Well, thanks.  You wouldn't believe what I went through to get those. Right after you took my camera, this ambulan--
+L529824 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ I bet you don't think I appreciate you, Parker.  I do.
+L529712 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ Gimme that.  Pick it up later.
+L529711 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Can't focus...
+L529699 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ Seventy.  But I want blood and gore.  You know, sexy stuff.
+L529698 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Can we make it a hundred?
+L529697 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ Get inside and get pictures.  Fifty bucks.
+L529696 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Yeah--
+L529695 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ Parker-- you go here, right?  Got your camera?
+L529694 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ You taking extension classes, Mr. Jameson?
+L529599 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ You make your own luck, Parker! Get into the middle of things, spend every day pounding the pavement of the city's mean streets--
+L529598 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Come on, that's pure luck!  The guy was in the right place at the right time--
+L529595 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I think you're trying to tell me something.
+L529594 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ Too hip.  Your photos suck, kid.
+L530125 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ Hmf-hrr?
+L530124 +++$+++ u2879 +++$+++ m189 +++$+++ SPIDER-MAN +++$+++ Oh, that?  It'll come unstuck in a half-hour or so. Your mouth needs the rest.  Bye.
+L530122 +++$+++ u2879 +++$+++ m189 +++$+++ SPIDER-MAN +++$+++ Fine.
+L530121 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ Frmpph-yrr.
+L530120 +++$+++ u2879 +++$+++ m189 +++$+++ SPIDER-MAN +++$+++ Thank you.  Now, repeat after me-- Spider-Man is a good guy. On the side of right, and niceness, and cute baby animals and all that.
+L530119 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ Police, help!  Po-- mmph.
+L530118 +++$+++ u2879 +++$+++ m189 +++$+++ SPIDER-MAN +++$+++ Would you cool it already?
+L530117 +++$+++ u2868 +++$+++ m189 +++$+++ JAMESON +++$+++ I don't submit to blackmail!  The first amendment protects my freedom to tell the news as I imagine it, and--
+L530116 +++$+++ u2879 +++$+++ m189 +++$+++ SPIDER-MAN +++$+++ Relax, Jameson.  This is business. I know you want photos of me, so I'll give your boy Parker an exclusive.  On one condition--
+L529766 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Deal.  But don't tell anyone.  I want to keep a low profile.
+L529765 +++$+++ u2869 +++$+++ m189 +++$+++ LEIBER +++$+++ An even five I throw in the jacket.
+L529764 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Two suits by tomorrow for $400?
+L529763 +++$+++ u2869 +++$+++ m189 +++$+++ LEIBER +++$+++ You're making my life difficult.
+L529762 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ How about tomorrow?
+L529761 +++$+++ u2869 +++$+++ m189 +++$+++ LEIBER +++$+++ Eh.  Week from tomorrow.
+L529760 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ A spider.  Eight legs.
+L529759 +++$+++ u2869 +++$+++ m189 +++$+++ LEIBER +++$+++ What's this? A cockaroach?
+L529758 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Uh-huh. Look, this should be skintight.  Bright colors.  Red, maybe a deep midnight blue.
+L529757 +++$+++ u2869 +++$+++ m189 +++$+++ LEIBER +++$+++ No refund on the mask, y'know. Health laws.
+L529991 +++$+++ u2879 +++$+++ m189 +++$+++ SPIDER-MAN +++$+++ Just about.  See, I also have this amazing strength.
+L529990 +++$+++ u2870 +++$+++ m189 +++$+++ LETTERMAN +++$+++ Are you quite finished?
+L529922 +++$+++ u2879 +++$+++ m189 +++$+++ SPIDER-MAN +++$+++ Just about.  You see, I also have this amazing strength...
+L529921 +++$+++ u2870 +++$+++ m189 +++$+++ LETTERMAN +++$+++ All right, amazing.  Are you quite finished?
+L529916 +++$+++ u2879 +++$+++ m189 +++$+++ SPIDER-MAN +++$+++ Well...
+L529915 +++$+++ u2870 +++$+++ m189 +++$+++ LETTERMAN +++$+++ I'll hate myself in the morning for asking, but what exactly makes you any more amazing than the average jerk on the street?
+L529914 +++$+++ u2879 +++$+++ m189 +++$+++ SPIDER-MAN +++$+++ Thanks, I already ate.
+L529913 +++$+++ u2870 +++$+++ m189 +++$+++ LETTERMAN +++$+++ Can I get you a snack-- a housefly, maybe?
+L529912 +++$+++ u2879 +++$+++ m189 +++$+++ SPIDER-MAN +++$+++ Just call me Spidey.
+L529911 +++$+++ u2870 +++$+++ m189 +++$+++ LETTERMAN +++$+++ I see.  So, Amazing Spider-Man-- I'll assume that's not your given name--
+L529910 +++$+++ u2879 +++$+++ m189 +++$+++ SPIDER-MAN +++$+++ Sorry. I'm still getting the hang of this.
+L529909 +++$+++ u2870 +++$+++ m189 +++$+++ LETTERMAN +++$+++ Is that bug juice, or are you just glad to see me?
+L530139 +++$+++ u2873 +++$+++ m189 +++$+++ MAY +++$+++ What if the world ends tomorrow?
+L530138 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ What if you get hurt?
+L530137 +++$+++ u2873 +++$+++ m189 +++$+++ MAY +++$+++ Even if you've heard them a million times in every stupid pop song ever written.
+L530136 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Even if they're not clever.
+L530135 +++$+++ u2873 +++$+++ m189 +++$+++ MAY +++$+++ Some things you should say anyway.
+L530134 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ He knew.
+L530133 +++$+++ u2873 +++$+++ m189 +++$+++ MAY +++$+++ Maybe I was hiding.  For years, I never told Ben the one important thing.
+L530128 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ I don't think he wants me to find him.
+L530127 +++$+++ u2873 +++$+++ m189 +++$+++ MAY +++$+++ When Peter was little, he loved to hide.  In closets, under the sink. He needed a secret place.  But when I'd look for him, he'd laugh... he wanted to be found.
+L530126 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ He left.  I couldn't believe it-- he just left!  It's as if he's somewhere else... I'm only getting a piece of him.
+L530269 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Nah.
+L530268 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ This may be the end of a beautiful friendship, you know.
+L530267 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Why?
+L530266 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Hold it.  Can we stop being clever, just for a moment?
+L530265 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Hm.  Well, I like you, too.  I like your aunt.  I like your shoelaces. I like--
+L530264 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I... I like you.  A lot.
+L530263 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Hello.  So very boring.  Peter Parker, how do you feel about me this morning?
+L530262 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Hello, Liz.
+L530203 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I'm here...
+L530202 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Peter?
+L530201 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Her cleverness, that hard edge-- maybe they're the weakest part of her. The strong part is� what's underneath.  The part she was protecting.  There's no reason to protect it... I think she's just finding that out now.
+L530200 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Strong...
+L530199 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Ssh.  I always thought she was a strong person.  She is-- but not for the reasons I thought.
+L530198 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Oh, God, I forgot to--
+L530197 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ May's much better. She'll be out soon.
+L530196 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Just shut up and close your eyes. This'll hurt.
+L530195 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I'm sorry about being a jerk this afternoon.
+L530090 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Unh-huh.  Excuse me.  I've gotta go.
+L530089 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Hello.  Earth to Peter.  Are you listening?
+L530087 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ I know what you mean.  I...
+L530086 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Am I?  I'm not so sure.  I used to be sure of a lot of things.  Oh, different things from week to week, but now-- I'm not sure of anything anymore.
+L530085 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Listen.  You think you're responsible for everything that happens.  Don't flagellate yourself - and don't flatter yourself, either.  You're not the center of the universe. You're just... Peter.
+L530084 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ You'd feel what?
+L530083 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ So?  The next day I'd read, "Peter Parker murdered," and I'd feel...
+L530082 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Well, no.
+L530081 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ You're not trained for that.  None of us are... I mean, sometimes I...  Okay, let's say you had gone back. What then?  Are you bulletproof?
+L530080 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ They keep saying there's nothing I could've done.  That's a lie.  I could've done something.  If only I'd paid attention to my feelings.
+L530079 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I think I'd like that.
+L530078 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Do you mind if I come too?
+L530077 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ -- but at least Aunt May's okay now. I really have to stop by the hospital this afternoon.
+L530073 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ That was then.  I'm better since the lobotomy.
+L530072 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ This from a man who winces at the cost of a pretzel?
+L530071 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ No, it wasn't only you-- it -- it just wasn't my style.  Hey, look-- let's go to lunch.  Someplace nice for a change.
+L530070 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Oh, don't do it on my account--
+L530069 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Sort of.  I'm returning the-- that outfit that you hated so much. Maybe I can get my money back.
+L530068 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ What's in the bag?  Garbage?
+L529870 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ That wasn't clever.  That was just nasty.
+L529869 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ This from a girl who still plays with dolls.
+L529868 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Sit down and stop being such a child.
+L529865 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I've got no problems.
+L529864 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ What's your problem?
+L529863 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Don't misquote Othello at me. Besides, you'd have to care about somebody to strangle them.
+L529860 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I'm sure you kept warm.
+L529859 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Brrr.  It's colder than New Hampshire in here.
+L529858 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Hi, Adele.
+L529857 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Eat alone, gotta read. Social defense tactic 17  Peter, that jacket is foul.  Lose your glasses?
+L529587 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Oh. Maybe I should, too--
+L529586 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I've gotta study.
+L529585 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ What are you doing this weekend?
+L529584 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Hurry up, Flash!
+L529583 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I'd never admit that.
+L529582 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Eugene.  Admit it, Peter-- you'd do anything for a nickname like "Flash."
+L529581 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Does it have a human name?
+L529580 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Some prep school thing.
+L529579 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ "Flash," Liz.  You're going out with something that calls itself "Flash."
+L529578 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ You should write that one down.
+L529577 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ But you like that in a man?
+L529576 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ God, Flash can be such a jerk.
+L529575 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ What?
+L529574 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ You want to give them something, but they'll just buy more Ripple. And they smell so... bad.
+L529573 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I suppose.
+L529572 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Yeah.  Really gets to you if you let it.
+L529571 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ My my.
+L529570 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Since you're feeling guilty, why not donate your pretzel to somebody who needs it?
+L529569 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Maybe.  I could have stopped it, though.
+L529568 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ He'll weasel out of trouble. Again.
+L529567 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Back to the lab.  Harry'll probably lose his scholarship.
+L529566 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Poor Harry.  Always desperate for attention.  What about the bunny?
+L529565 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ -- but the dogs treed him between Huxley and Kafka.
+L529548 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Thank God.
+L529547 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ No.  I was lying about the coffee.
+L529544 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ I hate your relatives, I hate your coffee, I hate your shoes.
+L529543 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I hate--
+L529542 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ I hate people with alliterative names.
+L529541 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I hate the Platonic idea of you.
+L529540 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Oh.  Well, I hate you and everyone who looks like you.
+L529539 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I lov-loathe Elizabeth Allan. Abhor, detest, despise--
+L529538 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Uh is a good start.
+L529537 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ I-- uh--
+L529536 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ Fill in the blank: "I blank Elizabeth Allan."
+L529535 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Huh?
+L529534 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ It's never too early to be clever. Describe in a sentence how you feel about me.
+L529533 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ It's too early to be clever.
+L529532 +++$+++ u2871 +++$+++ m189 +++$+++ LIZ +++$+++ How very dull, Peter Parker.
+L529531 +++$+++ u2876 +++$+++ m189 +++$+++ PETER +++$+++ Good morning, Liz.
